@@ -1,6 +1,6 @@
 -- settings
 local settings = {
-   defaultcolor = Color3.fromRGB(255,0,0),
+   defaultcolor = Color3.fromRGB(50,0,250),
    teamcheck = false,
    teamcolor = true
 };
